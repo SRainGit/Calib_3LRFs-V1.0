@@ -1,7 +1,9 @@
 # Calib_3LRFs-V1.0
 Extrinsic calibration of three LRFs
+
 ![image](https://github.com/SRainGit/Calib_3LRFs-V1.0/blob/master/images/photo.jpg)
 ![image](https://github.com/SRainGit/Calib_3LRFs-V1.0/blob/master/images/diagram.jpg)
+
 A refined method from our paper (calibration of IMU and another refined method are coming, perhaps after three months):
 ```
 @article{Yin, D.; Liu, J.; Wu, T.; Liu, K.; Hyyppä, J.; Chen, R. Extrinsic Calibration of 2D Laser Rangefinders Using an Existing Cuboid-Shaped Corridor as the Reference. Sensors 2018, 18, 4371.
