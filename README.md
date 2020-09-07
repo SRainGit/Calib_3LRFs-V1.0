@@ -1,5 +1,5 @@
 # Calib_3LRFs-V1.0
-Extrinsic calibration of three LRFs
+Extrinsic calibration of three LRFs (Laser Range Finders)
 
 ![image](https://github.com/SRainGit/Calib_3LRFs-V1.0/blob/master/images/Figure1.PNG)
 
