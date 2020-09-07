@@ -1,8 +1,7 @@
 # Calib_3LRFs-V1.0
 Extrinsic calibration of three LRFs
 
-![image](https://github.com/SRainGit/Calib_3LRFs-V1.0/blob/master/images/photo.jpg)
-![image](https://github.com/SRainGit/Calib_3LRFs-V1.0/blob/master/images/diagram.jpg)
+![image](https://github.com/SRainGit/Calib_3LRFs-V1.0/blob/master/images/Figure1.PNG)
 
 A refined method from our paper (calibration of IMU and another refined method are coming, perhaps after three months):
 ```
