@@ -9,7 +9,7 @@ A refined method from our paper (calibration of IMU and another refined method a
 }
 ```
 
-Our paper uses LM algorithm to solve the nonliniear problem, but sometimes it is not stable.
+Our paper uses LM algorithm to solve the nonliniear problem, it can work but just sometimes it is not stable.
 Now we use simplex with multi tries in the method to get more stable result.
 
 # Usage
