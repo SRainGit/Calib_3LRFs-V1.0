@@ -14,9 +14,9 @@ Now we use simplex with multi tries in the method to get more stable result.
 
 # Usage
 1. prepare data with the format shown in demo data
-2. run Calib_3LRF_PreProc.m to preprocess data
-3. run Calib_3LRFs.m to do the calibration
-4. run Calib_3LRFs_ShowCalibrationResult.m to visualize the calibration result
+2. run `Calib_3LRF_PreProc.m` to preprocess data
+3. run `Calib_3LRFs.m` to do the calibration
+4. run `Calib_3LRFs_ShowCalibrationResult.m` to visualize the calibration result
 
 # Note
 Codes for generating sythetic data as shown in the paper are also available.
