@@ -21,3 +21,6 @@ Now we use simplex with multi tries in the method to get more stable result.
 # Note
 Codes for generating sythetic data as shown in the paper are also available.
 Perhaps you need to make sure the distance unit in the raw data. In currenet version we use meter.
+
+# TODO
+Checkout if the functions of `RotMat2Quatern` and `Quatern2AngleAndAxis` are correct.
